@@ -20,7 +20,7 @@ We use [GTSRB dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dat
            
 # Reference
 
-[Traffic Sign Recognition with Multi-Scale Convolutional Networks By Pierre Sermanet and Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
-[Recognising Traffic Signs Using Deep Learning](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)
+1. [Traffic Sign Recognition with Multi-Scale Convolutional Networks By Pierre Sermanet and Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
+1. [Recognising Traffic Signs Using Deep Learning](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)
 
            
