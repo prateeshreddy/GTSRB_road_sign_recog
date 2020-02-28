@@ -10,12 +10,12 @@ Convolution Neural Network for German Traffic Sign Recognition
  
 We use [GTSRB dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset#Downloads)
  * Single-image, multi-class classification problem
- * More than 40 classes
+ * 43 classes
  * More than 50,000 images in total
  * Large, lifelike database
  * Reliable ground-truth data due to semi-automatic annotation
  * Physical traffic sign instances are unique within the dataset
-           (i.e., each real-world traffic sign only occurs once)
+           
            
            
 # Reference
@@ -24,3 +24,13 @@ We use [GTSRB dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dat
 1. [Recognising Traffic Signs Using Deep Learning](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)
 
            
+# Citation
+
+@inproceedings{Stallkamp-IJCNN-2011,
+    author = {Johannes Stallkamp and Marc Schlipsing and Jan Salmen and Christian Igel},
+    booktitle = {IEEE International Joint Conference on Neural Networks},
+    title = {The {G}erman {T}raffic {S}ign {R}ecognition {B}enchmark: A multi-class classification competition},
+    year = {2011},
+    pages = {1453--1460} } 
+
+
