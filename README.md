@@ -24,13 +24,6 @@ We use [GTSRB dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dat
 1. [Recognising Traffic Signs Using Deep Learning](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)
 
            
-# Citation
 
-@inproceedings{Stallkamp-IJCNN-2011,
-    author = {Johannes Stallkamp and Marc Schlipsing and Jan Salmen and Christian Igel},
-    booktitle = {IEEE International Joint Conference on Neural Networks},
-    title = {The {G}erman {T}raffic {S}ign {R}ecognition {B}enchmark: A multi-class classification competition},
-    year = {2011},
-    pages = {1453--1460} } 
 
 
