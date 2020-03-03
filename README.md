@@ -1,6 +1,6 @@
 # Overview
 
-![img1](/images/1.png = 100x20) ![img2](/images/2.png=100x20) ![img3](/images/3.png=100x20) ![img4](/images/4.png=100x20) ![img5](/images/5.png=100x20) ![img6](/images/6.png=100x20) ![img7](/images/7.png=100x20) ![img8](/images/8.png=100x20)
+![img1](/images/1.png  =250x) ![img2](/images/2.png) ![img3](/images/3.png) ![img4](/images/4.png) ![img5](/images/5.png) ![img6](/images/6.png) ![img7](/images/7.png) ![img8](/images/8.png)
 
 
 Convolution Neural Network for German Traffic Sign Recognition 
