@@ -1,6 +1,8 @@
 # Overview
 
-![img1](/images/1.png  =250x) ![img2](/images/2.png) ![img3](/images/3.png) ![img4](/images/4.png) ![img5](/images/5.png) ![img6](/images/6.png) ![img7](/images/7.png) ![img8](/images/8.png)
+<img src="/images/1.png" width = "100"> <img src="/images/2.png" width = "100"> <img src="/images/3.png" width = "100">
+<img src="/images/4.png" width = "100"> <img src="/images/5.png" width = "100"> <img src="/images/6.png" width = "100">
+<img src="/images/7.png" width = "100"> <img src="/images/8.png" width = "100">
 
 
 Convolution Neural Network for German Traffic Sign Recognition 
