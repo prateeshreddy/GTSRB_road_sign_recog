@@ -11,7 +11,7 @@ Convolution Neural Network for German Traffic Sign Recognition
 # Dataset
  
 We use [GTSRB dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset#Downloads)
- * Single-image, multi-class classification problem
+ 
  * 43 classes
  * More than 50,000 images in total
  * Large, lifelike database
