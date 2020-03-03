@@ -22,9 +22,9 @@ We use [GTSRB dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dat
            
 # Reference
 
-1. [Traffic Sign Recognition with Multi-Scale Convolutional Networks By Pierre Sermanet and Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
-1. [Recognising Traffic Signs Using Deep Learning By Eddie Forson](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)
-
+1. [Traffic Sign Recognition with Multi-Scale CNN Paper By Yann LeCun and Pierre Sermanet](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
+1. [Building a data pipeline Using Tensorflow tf.data By Andrew Ng and Kian Katanforoosh](https://cs230.stanford.edu/blog/datapipeline/)
+1. [Recognising Traffic Signs Using Deep Learning By Eddie Forson (An Article in towardsdatascience.com)](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)
            
 
 
