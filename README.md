@@ -37,18 +37,18 @@ Building the input pipeline in a machine learning project is always long and pai
 The Dataset API allows you to build an asynchronous, highly optimized [Data Pipeline](https://cs230.stanford.edu/blog/datapipeline/#building-an-image-data-pipeline) to prevent your GPU from data starvation. It loads images from the disk, applies optimized transformations, creates batches and sends it to the GPU. Former data pipelines made the GPU wait for the CPU to load the data, leading to performance issues.
 
 # Result
-After 20 epochs this model scored 98.7% accuracy on the test set, which is not too bad. As there was a total of 12,630 images that we used for testing, apparently there are 85 examples that the model could not classify correctly.
+After 20 epochs this model scored 98.7% accuracy on the test set, which is not too bad. As there were a total of 12,630 images that we used for testing (Correct- 12,384 | Wrong- 240) apparently there are 85 examples that the model could not classify correctly.
 
-Signs on most of those images either have artifacts like shadows or obstructing objects. There are, however, a couple of signs that were simply underrepresented in the training set.
+Signs on most of those images either have artifacts like shadows or obstructing objects. There were however, a couple of signs that were simply underrepresented in the training set.
 
-In conclusion, according to different sources human performance on a similar task varies from 98.3% to 98.8%, therefore this model seems to outperform an average human. Which, I believe, is the ultimate goal of machine learning!
+In conclusion, according to different sources human performance on a similar task varies from 98.3% to 98.8%, therefore this model seems to outperform an average human. Which I believe is the ultimate goal of machine learning!
 
            
 # References
 
 1. [Traffic Sign Recognition with Multi-Scale CNN Paper By Yann LeCun and Pierre Sermanet](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
 1. [Building a data pipeline Using Tensorflow tf.data By Andrew Ng and Kian Katanforoosh](https://cs230.stanford.edu/blog/datapipeline/)
-1. [Recognising Traffic Signs Using Deep Learning By Eddie Forson](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab) an article from towardsdatascience
+1. [Recognising Traffic Signs Using Deep Learning By Eddie Forson](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab) an article from towardsdatascience.
            
 
 
