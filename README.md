@@ -43,7 +43,7 @@ Signs on most of those images either have artifacts like shadows or obstructing 
 
 In conclusion, according to different sources human performance on a similar task varies from 98.3% to 98.8%, therefore this model seems to outperform an average human. Which I believe is the ultimate goal of machine learning!
 
-           
+A brief [Power Point Presentation](https://raw.githubusercontent.com/prateeshreddy/GTSRB_road_sign_recog/master/presentation%20.pptx) on the project.
 # References
 
 1. [Traffic Sign Recognition with Multi-Scale CNN Paper By Yann LeCun and Pierre Sermanet](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
